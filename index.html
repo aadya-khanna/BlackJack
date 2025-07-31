@@ -25,17 +25,28 @@
         <h1 class="text-4xl font-script font-bold" id="heading"> </h1>
     </div>
 
-    <div class="flex justify-center p-20"> 
-        <div class="flex flex-row " id="card-area">
-
+    <div class="flex justify-center p-10"> 
+        <div class="flex flex-wrap justify-center gap-2" id="card-area">
         </div>
-    </div>
+      </div>
+      
+      <div class="flex justify-center p-10"> 
+        <div class="flex flex-wrap justify-center gap-2" id="dealer-card-area">
+        </div>
+      </div>
+      
 
     <div class="flex justify-center pt-10"> 
         <div class="flex flex-row gap-10 font-script text-xl">
+            <button class="border-2 w-24 border-gray-900 dark:border-white rounded-md" onclick="playgame()"> play </button>
             <button class="border-2 w-24 border-gray-900 dark:border-white rounded-md" onclick="hit()"> hit </button>
-            <button class="border-2 w-24 border-gray-900 dark:border-white rounded-md"> stand </button>
+            <button class="border-2 w-24 border-gray-900 dark:border-white rounded-md" onclick="stand()"> stand </button>
         </div>
+    </div>
+
+   
+    <div class="flex justify-center pt-10">
+        <div class="text-2xl font-script" id="score"> Score: 0 </div>
     </div>
     
 
