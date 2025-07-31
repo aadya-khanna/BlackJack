@@ -158,7 +158,7 @@ function stand() {
         alert("Dealer wins with a score of " + dealerScore + ". You lose!");
     }
     else {
-        alert("Blackjack, you win!");
+        alert("Blackjack! You win 🥳");
     }
 }
 
