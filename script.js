@@ -16,7 +16,7 @@ const sunIcon = document.getElementById('sun-btn');
 const moonIcon = document.getElementById('moon-btn');
 const root = document.documentElement;
 
-alert("Welcome to Blackjack! Click 'Hit' to draw a card, 'Stand' to end your turn, and 'Play Game' to reset the game. Objective: Get your card total as close to 21 as possible without going over. Face cards are worth 10, Aces are 1 or 11, and number cards are their value. You can hit to take another card or stand to stop. You are playing against the dealer, whoever is closer to 21 without busting wins. Beat the dealer to win!");
+alert("Welcome to Blackjack! Click 'hit' to draw a card, 'stand' to end your turn, and 'play' to reset the game. Objective: Get your card total as close to 21 as possible without going over. Face cards are worth 10, Aces are 1 or 11, and number cards are their value. You can hit to take another card or stand to stop. You are playing against the dealer, whoever is closer to 21 without busting wins. Beat the dealer to win!");
 
 
 // if theme in localstorage is dark, then make them dark, hide sun, unhide moon 
