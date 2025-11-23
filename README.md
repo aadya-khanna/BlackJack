@@ -12,4 +12,6 @@ After demoing to a few friends, they mentioned how we should actively be able to
 ### ▶️ Try it here  
 [foryourgamblinghabits.vercel.app](https://foryourgamblinghabits.vercel.app)
 
+Used assets from Itch (we love Itch): [Itch](https://yaomon.itch.io/playing-cards) | [Creator](https://x.com/YaomonKS)
+
 Hope you enjoy playing it as much as I enjoyed making it!
