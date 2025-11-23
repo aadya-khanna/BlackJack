@@ -3,15 +3,14 @@
 A quick and simple **Blackjack simulator** I built to learn the basics of JavaScript.  
 Built with **HTML**, **TailwindCSS**, and **pure JavaScript** for all the game logic.
 
-*Minimal design*  
-*Playful interactions*  
-*Fast, no-frills gameplay*
+*Minimal design*  |  *Playful interactions*  |  *Gambling*  
+
 
 After demoing to a few friends, they mentioned how we should actively be able to see dealer's hand. Will add this logic in the coming days!
 
 ### ▶️ Try it here  
 [foryourgamblinghabits.vercel.app](https://foryourgamblinghabits.vercel.app)
 
-Used assets from Itch (we love Itch): [Itch](https://yaomon.itch.io/playing-cards) | [Creator](https://x.com/YaomonKS)
+Asset for cards from Itch (we love Itch): [Itch](https://yaomon.itch.io/playing-cards) | [Creator](https://x.com/YaomonKS)
 
 Hope you enjoy playing it as much as I enjoyed making it!
